@@ -1,0 +1,23 @@
+﻿1CV8LOG(ver 2.0)
+d701ad03-a282-4a68-b23d-a0c6aa44debf
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"notebeck",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",6},
+{4,"_$Data$_.Update",7},
+{5,76da5125-0db9-4208-acf3-cdfe41342d85,"Документ.ЗаявкиЛогистов",1},
+{4,"_$Data$_.Post",8},
+{4,"_$Transaction$_.Commit",9},
+{3,"BackgroundJob",3},
+{4,"_$Data$_.New",10},
+{5,5e18cf12-efa5-49b2-ac33-8609775ec979,"Документ.ЗаявкиМастеров",2},
+{3,"WebClient",4},
+{3,"MobileClient",5}
