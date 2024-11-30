@@ -20,4 +20,5 @@ d701ad03-a282-4a68-b23d-a0c6aa44debf
 {4,"_$Data$_.New",10},
 {5,5e18cf12-efa5-49b2-ac33-8609775ec979,"Документ.ЗаявкиМастеров",2},
 {3,"WebClient",4},
-{3,"MobileClient",5}
+{3,"MobileClient",5},
+{4,"_$InfoBase$_.RestoreError",11}
